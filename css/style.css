@@ -1,0 +1,10 @@
+.zdjecie {
+    float: left;
+    margin-left: 20px;
+}
+        
+#popup{
+    position: absolute;
+    display: none;
+    width: 50%;
+}
